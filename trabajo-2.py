@@ -5,4 +5,4 @@ if len(password) > 5 and not password.isalpha() and not password.isnumeric() and
 elif len(password) <8:
     print("Contraseña demasiado corta")
 else:
-    print("La contraseña debe incluir letras y numeros, y no tener espacios.")         
+    print("La contraseña debe incluir letras y numeros, y no tener espacios.")        
