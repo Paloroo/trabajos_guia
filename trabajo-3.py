@@ -7,3 +7,4 @@ elif nombre.islower() or nombre.isupper():
     print(f"Nombre formateado: {nombre_formateado}")
 else:
     print(f"Nombre aceptado tal cual: {nombre}")
+    
